@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.settings\.editorconfig = .settings\.editorconfig
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Be.Stateless.Unit", "src\Be.Stateless.Unit\Be.Stateless.Unit.csproj", "{5F349DAB-B1DB-4EB4-80FA-D36C7E042070}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{4AAA8B61-2ACF-48B4-B2A1-208B98C887BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AAA8B61-2ACF-48B4-B2A1-208B98C887BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AAA8B61-2ACF-48B4-B2A1-208B98C887BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F349DAB-B1DB-4EB4-80FA-D36C7E042070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F349DAB-B1DB-4EB4-80FA-D36C7E042070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F349DAB-B1DB-4EB4-80FA-D36C7E042070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F349DAB-B1DB-4EB4-80FA-D36C7E042070}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
